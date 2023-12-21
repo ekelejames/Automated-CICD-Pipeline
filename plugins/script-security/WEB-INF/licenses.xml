@@ -1,2 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='script-security' version='1294.v99333c047434'><l:dependency name='Script Security Plugin' groupId='org.jenkins-ci.plugins' artifactId='script-security' version='1294.v99333c047434' url='https://github.com/jenkinsci/script-security-plugin'><l:description>The Jenkins Plugins Parent POM Project</l:description><l:license name='MIT License' url='https://opensource.org/licenses/MIT'/></l:dependency><l:dependency name='Groovy Sandbox' groupId='org.kohsuke' artifactId='groovy-sandbox' version='1.33' url='https://github.com/jenkinsci/groovy-sandbox'><l:description>Executes untrusted Groovy script safely</l:description><l:license name='MIT License' url='https://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>
+version https://git-lfs.github.com/spec/v1
+oid sha256:16c788fe2624d72149d3c7065b834ca8d0ed39a8a263d7e1b6782cbfafe90011
+size 841

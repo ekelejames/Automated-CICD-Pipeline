@@ -1,2 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='durable-task' version='523.va_a_22cf15d5e0'><l:dependency name='Durable Task Plugin' groupId='org.jenkins-ci.plugins' artifactId='durable-task' version='523.va_a_22cf15d5e0' url='https://github.com/jenkinsci/durable-task-plugin'><l:description>Library offering an extension point for processes which can run outside of Jenkins yet be monitored.</l:description><l:license name='MIT License' url='https://opensource.org/licenses/MIT'/></l:dependency><l:dependency name='Durable Task Library' groupId='io.jenkins.plugins' artifactId='lib-durable-task' version='40.vc66cf8fb_4613' url='https://github.com/jenkinsci/lib-durable-task'><l:description>Generates and packages the binaries used by Durable Task Plugin</l:description><l:license name='MIT License' url='https://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d73f3566c50fe1823ae8dd404f3ad038aab653e294096f96695b816b7f9ad7a
+size 947

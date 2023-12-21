@@ -1,2 +1,3 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='branch-api' version='2.1135.v8de8e7899051'><l:dependency name='Branch API Plugin' groupId='org.jenkins-ci.plugins' artifactId='branch-api' version='2.1135.v8de8e7899051' url='https://github.com/jenkinsci/branch-api-plugin'><l:description>This plugin provides an API for multiple branch based projects.</l:description><l:license name='The MIT license' url='https://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>
+version https://git-lfs.github.com/spec/v1
+oid sha256:2516fe78160373586e26a801aa3b5b3f1585c7b8e73f36d27feb0586dd6730ef
+size 545
